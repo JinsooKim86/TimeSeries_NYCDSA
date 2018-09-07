@@ -1,5 +1,5 @@
-# Pacman_Machine_Learning_Lab
+# Time Series Project (Fangye Shi, Mary Huang, Jinsoo Kim)
 
 Presentation Material
 
-https://docs.google.com/presentation/d/1GejRc7LnCeCaK8bfRn_jSYQ-PVKwbgQrSOMxVkZNNrk/edit?usp=sharing
+https://docs.google.com/presentation/d/1MwCHqh3XQdDtTh2ynAH59yQLo1vpJ6_e6ROO1BYBpMA/edit?usp=sharing
