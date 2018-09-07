@@ -1,4 +1,4 @@
-# Time Series Project (Fangye Shi, Mary Huang, Jinsoo Kim)
+# Time Series Project
 
 Presentation Material
 
